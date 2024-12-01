@@ -3,7 +3,7 @@ class Solution {
 
         int n = arr.length;    
 
- \\sorting array in ascending order
+ //sorting array in ascending order
         Arrays.sort(arr);     
 
 // start from second last element as last element is the largest
