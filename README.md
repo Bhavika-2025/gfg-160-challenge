@@ -1,4 +1,4 @@
-# gfg-160 
+# 👀GFG 160 Days of Problem Solving👀 
 
 # Day 1 - Second Largest - Given an array of positive integers arr[], return the second largest element from the array. If the second largest element doesn't exist then return -1.
 
