@@ -11,7 +11,7 @@ Let's dive in! 🚀
 
 | 🌟 Day   | 🧩 Problem                                        | 🚀 Level  | 🔗 Solution               |
 |---------|--------------------------------------------------|----------|--------------------------|
-| Day 1   | [Second Largest]((./day_1_second_largest.java)  )| 🟢 Easy   | [Solved Check It Now!]((./day_1_second_largest.java)) |
+| Day 1   | [Second Largest]((day_1_second_largest.java)  )| 🟢 Easy   | [Solved Check It Now!]((day_1_second_largest.java)) |
 | Day 2   | [Move All Zeroes to End](./day_2_Move_All_Zeroes_to_End.java)                      | 🟢 Easy   | [Solved Check It Now!](./day_2_Move_All_Zeroes_to_End.java) |
 | Day 3   | [Reverse an Array](./day_3_reverse_array.java)                            | 🟢 Easy   | [Solved Check It Now!](./day_3_reverse_array.java) |
 | Day 4   | [Rotate Array](./day_4_rotate_array.java)                                | 🟡 Medium | [Solved Check It Now!](./day_4_rotate_array.java) |
