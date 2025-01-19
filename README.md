@@ -5,7 +5,7 @@ Let's dive in! 🚀
 
 ---
 
-## 🚀 Arrays Mastery  
+## 🚀 Arrays   
 
 ✨ **Days Covered: 1 to 13**  
 
